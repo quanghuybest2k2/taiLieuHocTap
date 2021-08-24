@@ -1,0 +1,12 @@
+HT 5
+HV 2
+HCN 1 5
+HT 6
+HV 3
+HCN 7 5
+HCN 12 8
+HT 3
+HV 20
+HV 7
+HT 1
+HCN 5 7

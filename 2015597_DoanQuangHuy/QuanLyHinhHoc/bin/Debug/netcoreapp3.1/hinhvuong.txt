@@ -1,0 +1,6 @@
+========== Danh Sách Hình vuông ==========
+
+Cạnh: 2             Chu vi: 8           Diện tích: 4        
+Cạnh: 3             Chu vi: 12          Diện tích: 9        
+Cạnh: 20            Chu vi: 80          Diện tích: 400      
+Cạnh: 7             Chu vi: 28          Diện tích: 49       

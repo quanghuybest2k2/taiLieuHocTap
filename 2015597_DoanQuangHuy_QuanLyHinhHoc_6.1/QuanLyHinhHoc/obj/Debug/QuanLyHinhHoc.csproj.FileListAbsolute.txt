@@ -1,0 +1,14 @@
+F:\TV3\PC317\2015597_DoanQuangHuy\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.exe.config
+F:\TV3\PC317\2015597_DoanQuangHuy\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.exe
+F:\TV3\PC317\2015597_DoanQuangHuy\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.pdb
+F:\TV3\PC317\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.csprojAssemblyReference.cache
+F:\TV3\PC317\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.csproj.CoreCompileInputs.cache
+F:\TV3\PC317\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.exe
+F:\TV3\PC317\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.pdb
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy_QuanLyHinhHoc_6.1\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.exe.config
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy_QuanLyHinhHoc_6.1\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.exe
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy_QuanLyHinhHoc_6.1\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.pdb
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy_QuanLyHinhHoc_6.1\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.csproj.CoreCompileInputs.cache
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy_QuanLyHinhHoc_6.1\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.exe
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy_QuanLyHinhHoc_6.1\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.pdb
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy_QuanLyHinhHoc_6.1\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.csprojAssemblyReference.cache

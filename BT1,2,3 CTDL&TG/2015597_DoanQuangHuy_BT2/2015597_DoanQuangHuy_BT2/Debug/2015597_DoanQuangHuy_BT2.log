@@ -1,0 +1,5 @@
+﻿  2015597_Program.cpp
+D:\BT1,2,3 CTDL&TG\2015597_DoanQuangHuy_BT2\2015597_DoanQuangHuy_BT2\2015597_ThuVien.h(134,23): warning C4018: '<': signed/unsigned mismatch
+D:\BT1,2,3 CTDL&TG\2015597_DoanQuangHuy_BT2\2015597_DoanQuangHuy_BT2\2015597_ThuVien.h(136,28): warning C4018: '<': signed/unsigned mismatch
+D:\BT1,2,3 CTDL&TG\2015597_DoanQuangHuy_BT2\2015597_DoanQuangHuy_BT2\2015597_Program.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  2015597_DoanQuangHuy_BT2.vcxproj -> D:\BT1,2,3 CTDL&TG\2015597_DoanQuangHuy_BT2\Debug\2015597_DoanQuangHuy_BT2.exe

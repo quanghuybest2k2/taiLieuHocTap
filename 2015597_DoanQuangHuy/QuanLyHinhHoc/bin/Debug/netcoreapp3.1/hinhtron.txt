@@ -1,0 +1,6 @@
+========== Danh Sách Hình tròn ==========
+
+Bán kính: 5         Chu vi: 31          Diện tích: 79       
+Bán kính: 6         Chu vi: 38          Diện tích: 113      
+Bán kính: 3         Chu vi: 19          Diện tích: 28       
+Bán kính: 1         Chu vi: 6           Diện tích: 3        

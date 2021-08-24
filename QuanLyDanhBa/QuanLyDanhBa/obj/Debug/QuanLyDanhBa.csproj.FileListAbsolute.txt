@@ -1,0 +1,21 @@
+D:\Study\2020-2021\HK2\Nguyên Lý Lập Trình Hướng Đối Tượng\Lab\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csprojAssemblyReference.cache
+D:\Study\2020-2021\HK2\Nguyên Lý Lập Trình Hướng Đối Tượng\Lab\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\Study\2020-2021\HK2\Nguyên Lý Lập Trình Hướng Đối Tượng\Lab\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+D:\Study\2020-2021\HK2\Nguyên Lý Lập Trình Hướng Đối Tượng\Lab\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+D:\Study\2020-2021\HK2\Nguyên Lý Lập Trình Hướng Đối Tượng\Lab\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+D:\Study\2020-2021\HK2\Nguyên Lý Lập Trình Hướng Đối Tượng\Lab\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+D:\Study\2020-2021\HK2\Nguyên Lý Lập Trình Hướng Đối Tượng\Lab\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+C:\Users\Admin\Downloads\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+C:\Users\Admin\Downloads\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+C:\Users\Admin\Downloads\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+C:\Users\Admin\Downloads\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+C:\Users\Admin\Downloads\2011402_DuongMyLoc_QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+D:\2015597_DoanQuangHuy\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+D:\2015597_DoanQuangHuy\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+D:\2015597_DoanQuangHuy\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+D:\2015597_DoanQuangHuy\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csprojAssemblyReference.cache
+D:\2015597_DoanQuangHuy\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+D:\2015597_DoanQuangHuy\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+D:\2015597_DoanQuangHuy\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb

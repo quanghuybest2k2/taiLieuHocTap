@@ -1,0 +1,13 @@
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\bin\Debug\netcoreapp3.1\QuanLyHinhHoc.exe
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\bin\Debug\netcoreapp3.1\QuanLyHinhHoc.deps.json
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\bin\Debug\netcoreapp3.1\QuanLyHinhHoc.runtimeconfig.json
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\bin\Debug\netcoreapp3.1\QuanLyHinhHoc.runtimeconfig.dev.json
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\bin\Debug\netcoreapp3.1\QuanLyHinhHoc.dll
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\bin\Debug\netcoreapp3.1\QuanLyHinhHoc.pdb
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\netcoreapp3.1\QuanLyHinhHoc.AssemblyInfoInputs.cache
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\netcoreapp3.1\QuanLyHinhHoc.AssemblyInfo.cs
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\netcoreapp3.1\QuanLyHinhHoc.csproj.CoreCompileInputs.cache
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\netcoreapp3.1\QuanLyHinhHoc.dll
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\netcoreapp3.1\QuanLyHinhHoc.pdb
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\netcoreapp3.1\QuanLyHinhHoc.genruntimeconfig.cache
+D:\2015597_DoanQuangHuy\2015597_DoanQuangHuy\QuanLyHinhHoc\obj\Debug\netcoreapp3.1\QuanLyHinhHoc.csprojAssemblyReference.cache

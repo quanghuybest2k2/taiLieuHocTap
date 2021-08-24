@@ -1,0 +1,5 @@
+﻿  Program.cpp
+D:\ôn tập ctdl và tg\Ôn tập\Ôn tập\ThuVien.h(88,10): warning C4101: 'maHV': unreferenced local variable
+D:\ôn tập ctdl và tg\Ôn tập\Ôn tập\Menu.h(38,7): warning C4101: 'maHV': unreferenced local variable
+D:\ôn tập ctdl và tg\Ôn tập\Ôn tập\Menu.h(39,7): warning C4101: 'ten': unreferenced local variable
+  Ôn tập.vcxproj -> D:\ôn tập ctdl và tg\Ôn tập\Debug\Ôn tập.exe

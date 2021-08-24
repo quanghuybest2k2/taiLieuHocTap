@@ -1,0 +1,6 @@
+========== Danh Sách Hình chữ nhật ==========
+
+Chiều dài: 1        Chiều rộng: 5       Chu vi: 6           Diện tích: 5        
+Chiều dài: 7        Chiều rộng: 5       Chu vi: 12          Diện tích: 35       
+Chiều dài: 12       Chiều rộng: 8       Chu vi: 20          Diện tích: 96       
+Chiều dài: 5        Chiều rộng: 7       Chu vi: 12          Diện tích: 35       
